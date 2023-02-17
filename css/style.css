@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(143, 197, 245);
+}
+.titleFont {
+font-weight: bolder;
+font-style: italic;
+font-size: 50px;
+color: wheat;
+}
+.table-sm {
+    padding: 0.1rem;
+    line-height: 1.25;
+    
+}
